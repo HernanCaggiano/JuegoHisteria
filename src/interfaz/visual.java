@@ -19,7 +19,10 @@ public class visual {
     private final int COLUMNAS = 5;
 
 	/**
-	 * Launch the application.
+	 * Prueba 2
+	 * 
+	 * 
+	 * 
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
