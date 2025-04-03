@@ -23,7 +23,6 @@ public class HisteriaPrincipal {
                 ControladorHisteria controlador = new ControladorHisteria(modelo, vista);
                     
                 vista.setVisible(true);
-   
             }
         });
     }

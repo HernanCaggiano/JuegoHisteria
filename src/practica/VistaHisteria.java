@@ -26,7 +26,6 @@ public class VistaHisteria extends JFrame {
         
         JLabel lblTitulo = new JLabel("Histeria - Locura Cromatica", SwingConstants.CENTER);
         lblTitulo.setFont(new Font("Tahoma", Font.BOLD, 16));
-        //getContentPane().add(lblTitulo, BorderLayout.NORTH);
         lblTitulo.setForeground(Color.BLACK);
         add(lblTitulo, BorderLayout.NORTH);
         

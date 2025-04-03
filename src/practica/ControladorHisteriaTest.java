@@ -50,10 +50,9 @@ public class ControladorHisteriaTest {
         // Encendemos todas las celdas para simular una victoria
         for (int i = 0; i < modelo.getFilas(); i++) {
             for (int j = 0; j < modelo.getColumnas(); j++) {
-                modelo.asignarColorCelda(i, j, ModeloHisteria.COLOR_APAGADO);
+                modelo.asignarColorCelda(i, j, ModeloHisteria.COLOR_ENCENDIDO);
             }
         }
-        System.out.println("Estado de victoria: " + modelo.verificarVictoria());
         assertTrue(modelo.verificarVictoria());
     }
 
