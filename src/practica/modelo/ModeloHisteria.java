@@ -1,4 +1,4 @@
-package practica;
+package practica.modelo;
 
 import java.awt.Color;
 import java.util.ArrayList;

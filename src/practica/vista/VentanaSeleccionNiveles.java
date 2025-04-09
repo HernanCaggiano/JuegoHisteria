@@ -1,6 +1,10 @@
-package practica;
+package practica.vista;
 
 import javax.swing.*;
+
+import practica.controlador.ControladorHisteria;
+import practica.modelo.ModeloHisteria;
+
 import java.awt.*;
 
 public class VentanaSeleccionNiveles extends JFrame {

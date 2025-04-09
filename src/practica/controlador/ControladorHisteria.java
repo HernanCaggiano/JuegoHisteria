@@ -1,6 +1,10 @@
-package practica;
+package practica.controlador;
 
 import javax.swing.*;
+
+import practica.modelo.ModeloHisteria;
+import practica.vista.VistaHisteria;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

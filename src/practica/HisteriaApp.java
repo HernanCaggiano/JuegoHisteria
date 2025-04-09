@@ -2,6 +2,8 @@ package practica;
 
 import javax.swing.SwingUtilities;
 
+import practica.vista.VentanaBienvenida;
+
 /**
  * Punto de entrada de la aplicación. Inicia la ventana de bienvenida.
  */
@@ -12,5 +14,4 @@ public class HisteriaApp {
             bienvenida.setVisible(true);
         });
     }
-
 }

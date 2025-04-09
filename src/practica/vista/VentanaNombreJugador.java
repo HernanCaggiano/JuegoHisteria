@@ -1,6 +1,7 @@
-package practica;
+package practica.vista;
 
 import javax.swing.*;
+
 import java.awt.*;
 
 /**

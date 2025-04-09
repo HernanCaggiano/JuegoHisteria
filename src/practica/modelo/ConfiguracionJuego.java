@@ -1,4 +1,4 @@
-package practica;
+package practica.modelo;
 
 import javax.swing.*;
 import java.awt.*;
